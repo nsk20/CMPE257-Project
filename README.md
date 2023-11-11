@@ -1,7 +1,6 @@
 # CMPE257-Project
 Predictive Analysis for Kickstarter Projects
 
-Overview
 Welcome to the Kickstarter Project Prediction project! This project aims to predict the success or failure of Kickstarter projects based on historical data. The dataset for this project has been uploaded to Google Docs and is ready for exploration and analysis.
 
 Dataset :
